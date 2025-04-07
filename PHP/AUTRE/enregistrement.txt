@@ -1,0 +1,797 @@
+	/*pour les clients
+
+	// LES Terminales
+
+
+//client 5	
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Mbothak
+Cabrel
+cabrel@gmail.com
+473893092
+cab
+5
+//
+livre
+Physiques
+Neuf
+Terminales
+3500
+[BLOB - 53 o]
+5
+NULL
+
+
+	//client 6
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Medom
+Astrid
+astrid@gmail.com
+345465665
+astrichou
+6
+//
+livre
+anglais
+Neuf
+Terminales
+2600
+[BLOB - 13 o]
+6
+NULL
+
+
+	//client 7
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Kamdem
+Giress
+arnoldgiress@gmail.com
+435765956
+Arnold3.1
+7
+//
+sac
+ecole
+Neuf
+Terminales
+2000
+[BLOB - 71 o]
+7
+NULL
+
+
+	//client 8
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Paul
+Ezechiel
+paul@gmail.com
+1232543544
+papou
+8
+//
+tenue
+E.P.S
+Neuf
+Terminales
+2000
+[BLOB - 32 o]
+8
+NULL
+
+
+	//client 9
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Sandra
+Riche
+sandra@gmail.com
+435346564
+sandri
+9
+//
+stylos_crayons
+ecriture
+Neuf
+Terminales
+400
+[BLOB - 83 o]
+9
+NULL
+
+	//client 16
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Magne
+Israelle
+israelle@gmail.com
+92402474
+boss
+16
+//
+livre
+Mathematiques
+Neuf
+Terminales
+3500
+[BLOB - 17 o]
+16
+NULL
+
+
+// LES PREMIERES
+
+	//client 1
+
+DOMGUIA
+Grace
+gracemedom@gmail.com
+657367843
+Grace3.1
+1
+//
+livre
+mathematiques
+neuf
+1eres
+3000
+image
+1
+NULL
+
+
+
+//client 3	
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+djomo
+Herve
+djomo@gmail.com
+124325423
+admin
+3
+//
+sac
+ecole
+Neuf
+1Ã¨res
+4000
+[BLOB - 66 o]
+3
+NULL
+
+
+//client 4	
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Kegne
+Ange
+ange@gmail.com
+214342525
+avichou
+4
+//
+stylos
+ecriture
+Neuf
+1Ã¨res
+200
+[BLOB - 59 o]
+4
+NULL
+
+//client 10
+Kamdem
+David
+david@gmail.com
+234354545
+JESUS
+10
+//
+TENUE
+E.P.S
+Neuf
+1Ã¨res
+1500
+[BLOB - 42 o]
+10
+NULL
+
+
+	//client 11
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Woguia
+Kalu
+kalu@gmail.com
+8576493435
+kalulu
+11
+//
+anale
+Physiques
+Neuf
+1Ã¨res
+2800
+[BLOB - 22 o]
+11
+NULL
+
+
+	//client 12
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Djimo
+Arthur
+fred@gmail.com
+749325235
+fredfree
+12
+//
+livre
+Mathematiques
+vieux
+1Ã¨res
+2000
+[BLOB - 22 o]
+12
+NULL
+
+
+
+// LES SECONDES
+
+
+	//client 2
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Kenmoe
+Gaby
+gaby@gmail.com
+222354365
+gabichou
+2
+//
+livre
+anglais
+vieux
+2ndes
+3600
+[BLOB - 33 o]
+2
+NULL
+
+
+
+
+	//client 13
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Sikoungha
+Manuella
+manu@gmail.com
+890459845
+maunu
+13
+//
+livre
+mathematiques
+Neuf
+2ndes
+2800
+[BLOB - 22 o]
+13
+NULL
+
+
+	//client 14
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Demgne
+Audrey
+audrey@gmail.com
+934392055
+lastar
+14
+//
+tenue
+E.P.S
+Neuf
+2ndes
+1500
+[BLOB - 33 o]
+14
+NULL
+
+
+	//client 15
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Mabuguia
+Myriam
+ingrid@gmail.com
+49549540
+myrimaise
+15
+//
+sac
+ecole
+neuf
+2ndes
+3000
+[BLOB - 44 o]
+15
+NULL
+
+
+
+
+
+	//client 17
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Brice
+Devy
+devy@gmail.com
+934734518
+forestier
+17
+//
+stylos
+ecriture
+Neuf
+2ndes
+150
+[BLOB - 60 o]
+17
+NULL
+
+
+	//client 26
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Kemayou
+Frank
+frank@gmail.com
+842727814
+kemay
+26
+//
+livre
+physique_Chimie
+Neuf
+2ndes
+2600
+[BLOB - 22 o]
+26
+NULL
+
+
+
+
+// LES TROISIEMES
+
+//client 18
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Ulrich
+Simo
+ulrich@gmail.com
+8984574349
+physicien
+18
+//
+livre
+mathematiques
+Neuf
+3iÃ¨me
+2400
+[BLOB - 31 o]
+18
+NULL
+
+
+	//client 19
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Dorothee
+Nka
+Dorothee@gmail.com
+834449430
+doro
+19
+//
+tenue
+E.P.S
+Neuf
+3iÃ¨me
+1400
+[BLOB - 127 o]
+19
+NULL
+
+
+	//client 28
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Godlove
+Godi
+godi@gmail.com
+934375434
+love
+28
+//
+sac
+Ecole
+Neuf
+3iÃ¨me
+2900
+[BLOB - 67 o]
+28
+NULL
+
+	//client 32
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Boris
+Ouabo
+boris@gmail.com
+937403252
+boo
+32
+//
+Cahier
+Cours
+Neuf
+3iÃ¨me
+800
+[BLOB - 55 o]
+32
+NULL
+	
+	//client 35
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Jean
+Bernard
+jean@gmail.com
+903709437
+jean
+35
+//
+Livre
+physique_Chimie
+vieux
+3iÃ¨me
+2000
+[BLOB - 12 o]
+35
+NULL
+
+
+	//client 36
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Gaby
+Duran
+duran@gmail.com
+893649329
+dudu
+36
+//
+livre
+Anglais
+vieux
+3iÃ¨me
+1500
+[BLOB - 32 o]
+36
+NULL
+
+
+
+// LES QUATRIEMES
+
+
+
+//LES CINQUIEMES
+
+	//client 20
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Amougou
+Hermine
+hermine@gmail.com
+949343101
+hermiou
+20
+//
+livre
+mathematiques
+vieux
+5iÃ¨me
+2000
+[BLOB - 61 o]
+20
+NULL
+
+
+	//client 21
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Bidjogo
+Victoire
+vicky@gmail.com
+874623932
+vicky
+21
+//
+livre
+Anglais
+Neuf
+5iÃ¨me
+1600
+[BLOB - 42 o]
+21
+NULL
+
+
+	//client 22
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Messi
+Lionnel
+lionnel@gmail.com
+983743242
+lionny
+22
+//
+feutres
+ecriture
+neuf
+5iÃ¨me
+3400
+[BLOB - 58 o]
+22
+NULL
+
+
+	//client 23
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Kougoum
+Channel
+channel@gmail.com
+867576448
+coco
+23
+//
+stylos_crayons
+ecriture
+Neuf
+5iÃ¨me
+150
+[BLOB - 41 o]
+23
+NULL
+
+
+	//client 27
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Steeyah
+Noah
+julie@gmail.com
+974347050
+premiere
+27
+//
+sac
+Ecole
+Neuf
+5iÃ¨me
+3000
+[BLOB - 47 o]
+27
+NULL
+
+
+
+	//client 30
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Patou
+Pitou
+Pitou@gmail.com
+930845044
+pitou
+30
+//
+tenue
+E.P.S
+Neuf
+5iÃ¨me
+2300
+[BLOB - 30 o]
+30
+NULL
+
+
+// LES SIXIEMES
+
+
+
+	//client 24
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Idris
+Cedric
+cedric@gmail.com
+947237329
+choupi
+24
+//
+livre
+Mathematiques
+Neuf
+6iÃ¨me
+1800
+[BLOB - 63 o]
+24
+NULL
+
+
+	//client 25
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Emmanuel
+Josue
+josue@gmail.com
+874323032
+joshua
+25
+//
+stylos
+ecriture
+neuf
+6iÃ¨me
+2400
+[BLOB - 59 o]
+25
+NULL
+
+
+
+
+
+
+
+
+
+	//client 29
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Aboubakar
+Abdel
+abdel@gmail.com
+9475233243
+abou
+29
+//
+sac
+Ecole
+Neuf
+6iÃ¨me
+3000
+[BLOB - 54 o]
+29
+NULL
+
+
+
+
+	//client 31
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Monique
+Ouabo
+moni@gmail.com
+988283403
+moni
+31
+//
+tenue
+E.P.S
+Neuf
+6iÃ¨me
+2000
+[BLOB - 56 o]
+31
+NULL
+
+
+
+
+
+	//client 33
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Hermann
+Ouabo
+hermann@gmail.com
+983432043
+hernanou
+33
+//
+livre
+Francais
+vieux
+6iÃ¨me
+2000
+[BLOB - 68 o]
+33
+NULL
+
+
+	//client 34
+Éditer Éditer
+Copier Copier
+Supprimer Supprimer
+Melvin
+Cabrel
+melvin@gmail.com
+872425313
+cab
+34
+//
+Crayons
+Ecriture
+Neuf
+6iÃ¨me
+1000
+[BLOB - 83 o]
+34
+NULL
+
+
+
+
+
+
+
